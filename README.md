@@ -1,3 +1,8 @@
+
+# Name : Shaukat Ali
+# College: IIT Kharagpur
+# Department : Chemical Engineering
+
 # Chat App
 
 This chat application is built using Next.js for both the frontend and backend. It's styled using Tailwind and employs Pusher for real-time chat functionality.
