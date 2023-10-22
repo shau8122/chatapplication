@@ -53,7 +53,7 @@ This chat application is built using Next.js for both the frontend and backend. 
 1. Install Node.js (v14 or newer) and npm.
 2. Set up a Prisma database and retrieve the connection strings.
 3. Acquire API keys from a Pusher account setup.
-4. If using Cloudinary, ensure you've set up an account and have the necessary credentials.
+4.  Cloudinary, ensure you've set up an account and have the necessary credentials.
 
 ### Installation
 ```bash
